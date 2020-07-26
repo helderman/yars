@@ -1,0 +1,13 @@
+#canvas {
+	background: url(stars.jpg) repeat-y;
+	animation: scrolling 120s linear infinite;
+}
+
+@keyframes scrolling {
+	from { background-position-y: 0; }
+	to { background-position-y: 2000px; }
+}
+
+img {
+	display: none;
+}
