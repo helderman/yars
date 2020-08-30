@@ -34,6 +34,9 @@ You can play it here:
 
 [https://scratch.mit.edu/projects/417981359](https://scratch.mit.edu/projects/417981359)
 
+Or watch a short video of the game here:
+[https://youtu.be/-cLZ5ARs3PM](https://youtu.be/-cLZ5ARs3PM)
+
 ### Instructions
 Warning: loud sounds, bright flashes.
 
@@ -87,7 +90,7 @@ All other sound effects (shooting, explosions) created with SoX.
 [http://sox.sourceforge.net/](http://sox.sourceforge.net/)
 
 Music: "Sci Fi" by Benjamin Tissot (a.k.a. Bensound)   
-[https://www.bensound.com/royalty-free-music/track/sci-fi](https://www.bensound.com/royalty-free-music/track/sci-fi)
+[https://www.bensound.com/royalty-free-music/track/sci-fi](https://www.bensound.com/royalty-free-music/track/sci-fi)   
 License: free license with attribution.   
 [https://www.bensound.com/licensing](https://www.bensound.com/licensing)
 
